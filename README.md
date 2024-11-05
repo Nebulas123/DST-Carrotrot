@@ -1,6 +1,6 @@
 # [DST] Carrotrot  
 
-Link: Steam Workshop(https://steamcommunity.com/sharedfiles/itemedittext/?id=2892258109)  
+Link: [Steam Workshop](https://steamcommunity.com/sharedfiles/itemedittext/?id=2892258109)  
 
 Inspired by Minecraft's carrot on a stick.  
 Making requires a carrot and a fishing rod, which have the same freshness as carrots, and will be returned to the fishing rod when it rots.  
